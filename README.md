@@ -49,10 +49,12 @@
 
 
 ## Ouvrir dans le navigateur
-# 🌐 http://localhost:3003
+ http://localhost:3003
+ 
 ```
 
-###  Scripts Disponibles
+```
+## Scripts Disponibles
 
 | Commande | Description | Usage |
 |----------|-------------|-------|
@@ -64,6 +66,8 @@
 ## Structure du Projet
 
 ```
+
+## Structure du Projet
 TP-React-Gestion-Etat/
 ├──  public/                 # Fichiers statiques publics
 │   ├──  index.html          # Template HTML principal
@@ -85,9 +89,11 @@ TP-React-Gestion-Etat/
 ├── package.json            # Dépendances et scripts
 ├── README.md               # Documentation du projet
 └── .gitignore              # Fichiers ignorés par Git
-```
+
 ```
 
+```
+```
 ##  Composants Détaillés
 
 ### 1. Compteur Simple
@@ -140,6 +146,10 @@ TP-React-Gestion-Etat/
 
   
 ## Démonstration
+
+
+https://github.com/user-attachments/assets/a812d765-e0bf-4c24-a781-036a33de4fc4
+
 
 ## Encadrement & Réalisation
 
